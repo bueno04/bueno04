@@ -12,15 +12,16 @@
  <h1>Hello There!</h1>
 </div>
 
-<div id="middle portion" align="center">
+<div id="middle portion">
  <img src="https://gifdb.com/images/high/funny-hacker-face-hacking-l0wrqon9090nlxbh.gif"/> 
-</div>
-### :man_technologist: About Me :
+ ### :man_technologist: About Me :
 I am a software developer from Brazil :)
 
 - 🔭: I am currently working as a IT Intern at Eaton. But I intend to work as a software developer, specifically with Python.
 - 🌱: Currently learning Python.
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
+</div>
+
 <div id="programming languages">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
