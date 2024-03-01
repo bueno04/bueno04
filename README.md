@@ -16,7 +16,7 @@
  <img src="https://gifdb.com/images/high/funny-hacker-face-hacking-l0wrqon9090nlxbh.gif"/> 
 </div>
 
----
+--
 ### :man_technologist: About Me :
 I am a software developer from Brazil :)
 
