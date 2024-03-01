@@ -12,5 +12,8 @@
  <h1>Hello There!</h1>
 </div>
 
+<div id="middle portion" align="center">
+ <img src="https://gifdb.com/images/high/funny-hacker-face-hacking-l0wrqon9090nlxbh.gif"/>
+</div>
 <!--
 **bueno04/bueno04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
