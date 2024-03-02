@@ -23,10 +23,11 @@ I am a software developer from Brazil :)
 - 🔭: I am currently working as a IT Intern at Eaton. But I intend to work as a software developer, specifically with Python.
 - 🌱: Currently learning Python.
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
+---
+
+### 🧰: Languages and Tools :
 
 <div id="programming languages">
- ---
-### 🧰: Language and Tools:  
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
