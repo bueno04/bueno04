@@ -25,7 +25,7 @@ I am a software developer from Brazil :)
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
 ---
 
-### 🧰: Languages and Tools :
+### 🧰 Languages and Tools :
 
 <div id="programming languages">
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" title="Python" alt="Python" width="40" height="40"/>
