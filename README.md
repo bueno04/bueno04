@@ -16,7 +16,7 @@
 ### :man_technologist: About Me :
 I am a software developer from Brazil :)
 
-- 🔭: I am currently working as a IT Intern at Eaton. But I intend to work as a software developer, specifically with Python.
+- 🔭: I am currently working as a IT Support Analyst at Kion South America. But I intend to work as a software developer, specifically with Python.
 - 🌱: Currently learning Python.
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
 ---
