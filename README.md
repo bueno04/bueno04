@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/miguel-perez-bueno-5a89a9205/">
+ <a href="https://www.linkedin.com/in/miguel-perez-bueno/">
  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
  </a>
  <a href="mailto:mbueno1606@gmail.com">
@@ -14,10 +14,10 @@
 
 ---
 ### :man_technologist: About Me :
-I am a software developer from Brazil :)
+I am a It Support Analyst transitioning into data science/ data analysis :)
 
-- 🔭: I am currently working as a IT Support Analyst at Kion South America. But I intend to work as a software developer, specifically with Python.
-- 🌱: Currently learning Python.
+- 🔭: I worked as a IT Support Analyst at Kion South America. I am however, transitioning into the data science/data analysis field.
+- 🌱: Currently learning Scikit Learn.
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
 ---
 
