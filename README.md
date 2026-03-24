@@ -16,8 +16,8 @@
 ### :man_technologist: About Me :
 I'm an It Support Analyst transitioning into data science/data analysis :)
 
-- 🔭: I worked as a IT Support Analyst at Kion South America. I am however, transitioning into the data science/data analysis field.
-- 🌱: Currently learning Scikit Learn.
+- 🔭: I worked as a IT Support Analyst at Kion South America. I am however, transitioning into Software Engineering.
+- 🌱: Currently reviewing Node and React.
 - ⚡: During my freetime, I like to program with Python, and read more about AI.
 ---
 
